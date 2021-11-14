@@ -1,4 +1,4 @@
-# " PROGRAMAVIRUS "
+# " PROGRAMA VIRUS "
 
 
 Attention! There have been reports of a new, highly infectious, virus, which can even endanger students' lives! It is a virus, that after a very brief incubation period severely impacts one's routine. Infected people show signs of irresistible desire to code Progtest tasks. That alone may seem harmless at first sight, but there have been cases of people, that for several days utterly forgot to eat, or even to sleep! Virus spreads from dirty keyboards, which implies high risk of infection for people that study at FIT. For that reason, the dean of faculty announced that it is necessary to wash hands after each coding session and he also forbid students to log to Progtest. Pharmacy below red canteen even began to sell surgical masks for keyboards ...
