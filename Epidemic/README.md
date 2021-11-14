@@ -1,4 +1,4 @@
-# " PROGRAMAVIRUS EPIDEMIC "
+# " PROGRAMA VIRUS EPIDEMIC "
 
 
 Even though the use of programavirus antidote was relatively successful, we did not manage to prevent the virus from further spreading. The virus is now not only uncontrollably spreading between FIT students, but it has also mutated and now affects also teachers and employees. Current government measurements reduced the spread rate, but it has been shown, that one can also become infected by remote collaboration with colleagues. FIT doesn't want to stop the teaching and function of its important parts altogether. Given the amount of infected people, to stop the virus from spreading, it might suffice to stop only some of the collaboration. Of course, it would be best to stop as little collaboration as possible. Can you help FIT to analyze and solve this situation?
